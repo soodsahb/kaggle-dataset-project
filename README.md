@@ -1,3 +1,9 @@
+<img width="1843" height="901" alt="Screenshot 2026-10-23 204825" src="https://github.com/user-attachments/assets/b676ddd1-2659-490e-8847-eae685535b6b" />
+<img width="1835" height="914" alt="Screenshot 2026-10-23 204854" src="https://github.com/user-attachments/assets/1597f763-6d53-44a0-b639-d57051cf3711" />
+<img width="1842" height="905" alt="Screenshot 2026-10-23 204926" src="https://github.com/user-attachments/assets/d91ea9c7-65e7-48b6-a7a8-fe0738d7910c" />
+<img width="1537" height="737" alt="Screenshot 2026-10-23 210202" src="https://github.com/user-attachments/assets/59c9745e-866e-44e7-a9a5-fc99939f58ff" />
+<img width="1718" height="816" alt="Screenshot 2026-10-23 210409" src="https://github.com/user-attachments/assets/33575807-b578-4504-9150-8bf3cb123065" />
+<img width="1398" height="231" alt="Screenshot 2026-10-23 210434" src="https://github.com/user-attachments/assets/42879696-a585-4152-9684-5127a52a4cbd" />
 Most people start Machine Learning with model.fit(). For my Month 3 AI Backend Engineering Capstone, I wanted to build the math under the hood first—and then compare it side-by-side with a production Scikit-Learn pipeline. 🧠💻
 
 
